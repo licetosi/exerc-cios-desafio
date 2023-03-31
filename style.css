@@ -1,3 +1,24 @@
-h1 {
-color: rgb(0, 0, 0);
-}
+.alpha{
+    background-color: #F9D1AC;
+    text-align: center;
+  }
+
+  .rodapé{
+    background-color: #F9D1AC;
+  }
+
+  .segundocabeçalho{
+    background-color: #e3b488;
+    text-align: center
+  }
+
+  h4{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  }
+
+  button{
+    width: 200px; height: 30px;
+  }
+
+
+ 
